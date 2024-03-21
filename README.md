@@ -1,4 +1,4 @@
-## Hey, pleased to meet you, I'm matheus henrique!
+## Hey, pleased to meet you, I'm Matheus Henrique!
 
-- 🌱 I’m student a Engineer Software
-- 🔭 I’m currently working on Back-end
+- 🌱 I’m Student a Engineer Software
+- 🔭 I’m currently working on Back-End
